@@ -1,5 +1,17 @@
 {
-  "name": "Ivan",
-  "curs": 2,
-  "uspeh": 5.50
+  "project": "JSON Parser V2",
+  "university": "TU-Varna",
+  "faculty_number": 24621817,
+  "active": true,
+  "metadata": null,
+  "students": [
+    {
+      "name": "Magdalena",
+      "course": 2
+    },
+    {
+      "name": "Ivan",
+      "course": 2
+    }
+  ]
 }
